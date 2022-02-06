@@ -111,9 +111,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:hyunho.lee26@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://hyunholee26.github.io"
+      #- label: "Website"
+      #  icon: "fas fa-fw fa-link"
+      #  url: "https://hyunholee26.github.io"
       #- label: "Twitter"
       # icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -126,6 +126,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/hyunho-lee-91a473226/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=_BauogcAAAAJ&hl=en"
 
 # Site Footer
 footer:
