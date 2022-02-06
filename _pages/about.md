@@ -4,10 +4,9 @@ title: "About"
 author_profile: true
 toc: true
 toc_sticky: true
-layout: home
 ---
-## test
+## test1111
 
-## test1
+## test12222
 
-## test2
+## test2333
