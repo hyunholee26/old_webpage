@@ -20,7 +20,7 @@ title                    : "Hyunho's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hyunho Lee"
-description              : "Blog newbee"
+description              : 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,23 +103,14 @@ analytics:
 # Site Author
 author:
   name             : "Hyunho Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/mypic.png"
   bio              : "First year of the Ph.D. course in computer science from 2022."
   location         : "Deajeon, South Korea"
-  email            : 
+  # email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:hyunho.lee26@gmail.com"
-      #- label: "Website"
-      #  icon: "fas fa-fw fa-link"
-      #  url: "https://hyunholee26.github.io"
-      #- label: "Twitter"
-      # icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-      # - label: "Facebook"
-      # icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hyunholee26/"
@@ -129,7 +120,16 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=_BauogcAAAAJ&hl=en"
-
+      #- label: "Website"
+      #  icon: "fas fa-fw fa-link"
+      #  url: "https://hyunholee26.github.io"
+      #- label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+      # - label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+      
 # Site Footer
 footer:
   links:
