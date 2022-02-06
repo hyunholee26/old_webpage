@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hyunho Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Born in 1982, in 2022, I started the first year of the PhD course in computer science."
+  location         : "Deajeon, South Korea (I will stay USA for my Ph.D course from fall semester of 2022)"
+  email            : "hyunho.lee26@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
