@@ -106,7 +106,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "First year of the Ph.D. course in computer science from 2022."
   location         : "Deajeon, South Korea"
-  email            : "hyunho.lee26@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
