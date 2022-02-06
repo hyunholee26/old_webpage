@@ -7,7 +7,7 @@ main:
    - title: "Archive"
      url: /year-archive/
    - title: "Tag"
-     url: /tag-archive/
+     url: /tags/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
