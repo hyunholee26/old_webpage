@@ -14,4 +14,4 @@ My research focuses on **incorporating prior knowledge (especially physics-based
 
 I obtained my Master's degree in **Computer Science from KAIST (Korea Advanced Institute of Science and Technology)** under Prof. Kwangyun, Wohn's supervision. Before that I received my Bachelor's degree in **Information and Computer Engineering from Ajou University**.
 
-For more information about my research experience, please refer to my **Curriculum Vitae** (PDF).
+For more information about my research experience, please refer to my **[Curriculum Vitae](https://hyunholee26.github.io/assets/files/cv_lhh_Feb_2022.pdf)** (PDF).
