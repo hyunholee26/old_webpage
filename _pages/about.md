@@ -1,9 +1,8 @@
 ---
 permalink: /about/
 title: "About Me"
-toc: true
-toc_sticky: true
 layout: archive
+classes: wide
 author_profile: true
 ---
 
