@@ -7,7 +7,7 @@ toc_sticky: true
 ---
 
 ## 0. Pre-requisites
- - Join github
+ - Join ithub
  - Select and download Jekyll theme in [http://jekyllthemes.org/](http://jekyllthemes.org/)
  - Create new repository and set it for homepage, and then upload the files of Jekyll theme into the new repository
 
