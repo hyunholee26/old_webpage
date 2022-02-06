@@ -1,7 +1,6 @@
 ---
 title: "Building own blog with Jekyll and Github in 20 minutes"
-tags:
-  - github
+tags: [github]
 toc: true
 toc_sticky: true
 ---
