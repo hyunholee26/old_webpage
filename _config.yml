@@ -127,7 +127,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/hyunho-lee-91a473226/"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-google-scholar"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=_BauogcAAAAJ&hl=en"
 
 # Site Footer
