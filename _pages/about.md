@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 toc: true
-layout: default
+layout: archive
 author_profile: true
 ---
 
