@@ -13,20 +13,19 @@ toc_sticky: true
  - Create new repository and set it for homepage, and then upload the files of Jekyll theme into the new repository
 
 ## 1. Edit `/_config.yml`
- - This file is related to these settings below :
-   * theme, Site settings(title, logo, etc), Site Author(name, bio, social links)
+ - This file is relevant to theme, Site settings(title, logo, etc), Site Author(name, bio, social links)
 
 ## 2. Edit '/_data/navigation.yml'
- - This file is related to menus and its link
- - Each menus consists of `title` and `url`. `title` is the name of menu and `url` means a file located in `_pages` folder. You can check the example at `/test/_data/navigation.yml`
+ - This file is relevant to menus and its link
+ - Each menus consists of `title` and `url`. `title` is the name of menu and `url` means a file located in `_pages` folder. You can set the file with checking the example at `/test/_data/navigation.yml`
 
 ## 3. Create '/_page' folder and menu files
- - This is related to create menu files and it is relevant with previous step.
- - Menu file could be .md or .html and You can check the example at `/test/_pages`
+ - This is relevant to creating menu files. This step is connected with previous step.
+ - Menu file could be .md or .html and you can make the files with refering to the example at `/test/_pages`
 
 ## 4. Create '/_post' folder and .md files
- - This is related to post an articles in your blog
- - The name of .md file format is `YYYY-MM-DD-POST-TITLE.md` and you can compose the article with markdown.
+ - This is relevant to posting an article in your blog
+ - The name of .md file format must be `YYYY-MM-DD-POST-TITLE.md` and you can compose the article with markdown.
 
 ## 5. That's all
  - You can check your blog and posts that you wrote.
