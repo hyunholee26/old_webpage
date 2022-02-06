@@ -14,4 +14,4 @@ toc_sticky: true
 
 ## 1. Edit `_config.yml`
  - This file is related to these settings below :
-   * `theme`, `Site settings`(title, logo, etc), `Site Author`(name, bio, linkes)
+   * `theme`, `Site settings`(title, logo, etc), `Site Author`(name, bio, social links)
