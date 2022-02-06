@@ -1,5 +1,5 @@
 ---
-title: "Skim the surface of building own blog using jekyll and github"
+title: "Building own blog using jekyll and github in 20 minutes"
 tags:
   - github
 toc: true
