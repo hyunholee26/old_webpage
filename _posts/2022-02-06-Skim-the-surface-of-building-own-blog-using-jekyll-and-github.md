@@ -1,7 +1,7 @@
 # 0. Pre-requisites
  - Join github
- - Select and download jekyll theme ([http://jekyllthemes.org/](http://jekyllthemes.org/), etc)
- - Create new reposity and set it for homepage, and then upload files in jekyll theme
+ - Select and download Jekyll theme in [http://jekyllthemes.org/](http://jekyllthemes.org/)
+ - Create new reposity and set it for homepage, and then upload the files of Jekyll theme
 
 # 1. Edit _config.yml
  - This file is related to these settings below :
