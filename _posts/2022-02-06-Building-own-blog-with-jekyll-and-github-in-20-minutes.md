@@ -1,5 +1,5 @@
 ---
-title: "Building own blog with jekyll and github in 20 minutes"
+title: "Building own blog with Jekyll and Github in 20 minutes"
 tags:
   - github
 toc: true
