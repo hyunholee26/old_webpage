@@ -15,3 +15,7 @@ toc_sticky: true
 ## 1. Edit `/_config.yml`
  - This file is related to these settings below :
    * theme, Site settings(title, logo, etc), Site Author(name, bio, social links)
+
+## 2. Edit '_data/navigation.yml'
+ - This file is related to menus and its link
+ - Each menus consists of `title` and `url`. `title` is the name of menu and `url` is a file located in `_pages` folder. You can check the example at `/test/_data/navigation.yml`
