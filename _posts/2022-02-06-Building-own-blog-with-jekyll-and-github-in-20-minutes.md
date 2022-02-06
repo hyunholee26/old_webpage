@@ -18,4 +18,4 @@ toc_sticky: true
 
 ## 2. Edit '_data/navigation.yml'
  - This file is related to menus and its link
- - Each menus consists of `title` and `url`. `title` is the name of menu and `url` is a file located in `_pages` folder. You can check the example at `/test/_data/navigation.yml`
+ - Each menus consists of `title` and `url`. `title` is the name of menu and `url` means a file located in `_pages` folder. You can check the example at `/test/_data/navigation.yml`
