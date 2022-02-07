@@ -11,8 +11,10 @@ Hello! This is **Hyunho Lee**. I am a **senior manager at K-water** (Korea Water
 
 My research focuses on **incorporating prior knowledge (especially physics-based knowledge) within data-driven models or learning process as an inductive bias, thereby achieving efficient learning from few samples or sparse observations and making the model easier to understand for scientists and non-machine-learning experts.** Also, I would like to research the applications of these techniques in water resources management such as the prediction of water level and dam inflow. For more information about my research experience, please refer to my **[Curriculum Vitae](https://hyunholee26.github.io/assets/files/cv_lhh_Feb_2022.pdf)** (PDF).
 
-## Education
 ---
+
+## Education
+
  - **KAIST (Korea Advanced Institute of Science and Technology)**, *Daejeon, Republic of Korea*
    - M.S in Computer Science
    - Mar. 2008 – Feb. 2010
