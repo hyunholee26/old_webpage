@@ -12,3 +12,7 @@ I will summarize serveral articles regarding deep learning with uncertainty esti
 ## 1. [A guide to generating probability distributions with neural networks](https://medium.com/hal24k-techblog/a-guide-to-generating-probability-distributions-with-neural-networks-ffc4efacd6a4)
  - This article give the example code related to generate distribution of predicted value with cumstomed layer and loss function.
 
+## 2. [How to generate neural network confidence intervals with Keras](https://medium.com/hal24k-techblog/how-to-generate-neural-network-confidence-intervals-with-keras-e4c0b78ebbdf)
+ - This article suggests same notion and implementation with [Monte Carlo Dropout](https://towardsdatascience.com/monte-carlo-dropout-7fd52f8b6571). Also, it gives the way to calculate optimal dropout rate.
+
+
