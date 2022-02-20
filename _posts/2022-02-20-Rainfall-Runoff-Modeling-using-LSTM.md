@@ -1,8 +1,8 @@
 ---
-title: "Rainfall Runoff Models using LSTM"
+title: "Rainfall Runoff Modeling using LSTM"
 tags: 
+  - Rainfall-Runoff Modeling
   - LSTM
-  - Rainfall-Runoff
 toc: true
 toc_sticky: true
 ---
