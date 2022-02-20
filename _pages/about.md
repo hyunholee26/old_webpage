@@ -1,12 +1,12 @@
 ---
 permalink: /about/
-title: "About Me"
+title: "CV"
 layout: archive
 classes: wide
 author_profile: true
 ---
 
-Hello! This is **Hyunho Lee**. I am a **senior manager at K-water** (Korea Water Resources Corporation)
+Hello! My name is **Hyunho Lee**. I am a **senior manager at K-water** (Korea Water Resources Corporation).
 <!-- first-year PhD student in Computer Science at the University of Minnesota and a member of Knowledge Computing Lab, advised by Prof. Yao-Yi Chiang. -->
 
 My research focuses on **incorporating prior knowledge (especially physics-based knowledge) within data-driven models or learning process as an inductive bias, thereby achieving efficient learning from few samples or sparse observations and making the model easier to understand for scientists and non-machine-learning experts.** Also, I would like to research the applications of these techniques in water resources management such as the prediction of water level and dam inflow. For more information about my research experience, please refer to my **[Curriculum Vitae](https://hyunholee26.github.io/assets/files/cv_lhh_Feb_2022.pdf)** (PDF).
