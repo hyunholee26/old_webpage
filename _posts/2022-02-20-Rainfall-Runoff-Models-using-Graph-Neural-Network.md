@@ -2,6 +2,7 @@
 title: "Rainfall Runoff Models using Graph Neural Network"
 tags: 
   - Graph Neural Network
+  - Rainfall-Runoff
 toc: true
 toc_sticky: true
 ---
