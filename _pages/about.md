@@ -1,11 +1,12 @@
 ---
 permalink: /about/
-title: "CV"
+title: "Curriculum Vitae"
 layout: archive
 classes: wide
 author_profile: true
 ---
 
+## Bio & Research Interests
 Hello! My name is **Hyunho Lee**. I am a **senior manager at K-water** (Korea Water Resources Corporation).
 <!-- first-year PhD student in Computer Science at the University of Minnesota and a member of Knowledge Computing Lab, advised by Prof. Yao-Yi Chiang. -->
 
