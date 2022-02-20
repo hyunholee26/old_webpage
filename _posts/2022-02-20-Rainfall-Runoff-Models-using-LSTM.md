@@ -1,7 +1,8 @@
 ---
 title: "Rainfall Runoff Models using LSTM"
 tags: 
-  - Graph Neural Network
+  - LSTM
+  - Rainfall-Runoff
 toc: true
 toc_sticky: true
 ---
