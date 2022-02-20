@@ -1,8 +1,8 @@
 ---
-title: "Rainfall Runoff Modeling using LSTM"
+title: "Rainfall Runoff Modeling using Recurrent Neural Network"
 tags: 
   - Rainfall-Runoff Modeling
-  - LSTM
+  - Recurrent Neural Network
 toc: true
 toc_sticky: true
 ---
